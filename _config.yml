@@ -16,7 +16,7 @@ timezone: Europe/Paris
 
 title: Ajit Rai # the main title
 
-tagline: Data Science # it will display as the sub-title
+tagline: A tangible approach in an intangible universe # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Data Scientist working....
@@ -40,9 +40,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/__rajit__ # change to your twitter homepage
     - https://github.com/ajit-rai # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/ajitrai07/
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +71,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/assets/img/site/avatar_image.PNG'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -112,7 +110,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: 'ajit-rai'
+baseurl: '/ajit-rai'
 
 # ------------ The following options are not recommended to be modified ------------------
 
